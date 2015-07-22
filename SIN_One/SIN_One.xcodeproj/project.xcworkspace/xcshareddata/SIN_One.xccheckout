@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FAD2E520-18A0-4BFC-B79E-52D7A7FEF540</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>38FD7ED792CE5EA6A6BFF9C9B619C7E7362821B4</key>
+		<string>github.com:singelet/singelet_zhou.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SIN_One/SIN_One.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>38FD7ED792CE5EA6A6BFF9C9B619C7E7362821B4</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:singelet/singelet_zhou.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>38FD7ED792CE5EA6A6BFF9C9B619C7E7362821B4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>38FD7ED792CE5EA6A6BFF9C9B619C7E7362821B4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>yes</string>
+		</dict>
+	</array>
+</dict>
+</plist>
